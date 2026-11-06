@@ -5,9 +5,12 @@ from etape1_collecte import collecter
 
 
 def nettoyer(texte):
-    texte = re.sub(r"[ \t]+", " ", texte)        # plusieurs espaces -> un seul
-    texte = re.sub(r"\n{3,}", "\n\n", texte)     # 3 sauts de ligne ou plus -> 2
-    texte = re.sub(r"-\n(\w)", r"\1", texte)     # recoller les mots coupés en fin de ligne
+    texte = re.sub(r"[ \t]+", " ", texte)                            # plusieurs espaces -> un seul
+    texte = re.sub(r"^Altéa Services — Document interne.*$", "", texte, flags=re.M)  # en-tête répété
+    texte = re.sub(r"^Document fictif réalisé.*$", "", texte, flags=re.M)             # pied de page
+    texte = re.sub(r"^\d{1,2}\s*$", "", texte, flags=re.M)                            # numéro de page seul
+    texte = re.sub(r"\n{3,}", "\n\n", texte)                         # 3 sauts de ligne ou plus -> 2
+    texte = re.sub(r"-\n(\w)", r"\1", texte)                         # recoller les mots coupés
     return texte.strip()
 
 

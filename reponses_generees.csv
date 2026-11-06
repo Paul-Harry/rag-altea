@@ -1,0 +1,20 @@
+﻿question,document_attendu,reponse,sources,note,sources_exactes
+Combien de jours de télétravail par semaine ?,teletravail.pdf,"Chaque salarié éligible peut télétravailler jusqu'à 2 jours par semaine.
+",teletravail.pdf p.1; conges_absences.pdf p.1; conges_absences.pdf p.1,,
+Comment réinitialiser mon mot de passe ?,mot_de_passe.txt,"Rendez-vous sur la page de réinitialisation, accessible depuis l'écran de connexion de votre ordinateur (lien « Mot de passe oublié ? ») ou depuis votre téléphone sur le portail compte.altea-services.example.
+Saisissez votre identifiant (prénom.nom), puis validez le code reçu par SMS s
+",mot_de_passe.txt p.1; charte_informatique.pdf p.1; mot_de_passe.txt p.1,,
+Comment poser un jour de congé ?,conges_absences.pdf,"La demande de congé se fait dans le portail RH MonEspace, rubrique « Mes absences », puis « Nouvelle demande ». Le salarié choisit le type d'absence, les dates et, s'il le souhaite, ajoute un commentaire. La demande est envoyée automatiquement au manager, qui doit la valider ou la refuser sous 5 jours ouvrés. Sans réponse dans ce délai, le salarié relance son manager puis, si nécessaire, le service RH.",conges_absences.pdf p.2; conges_absences.pdf p.1; teletravail.pdf p.1,,
+Quel est le plafond de remboursement d'un repas d'affaires ?,notes_de_frais.pdf,"Le plafond de remboursement d'un repas d'affaires est de 50 € par personne.
+",notes_de_frais.pdf p.2; notes_de_frais.pdf p.1; mutuelle.pdf p.1,,
+Quels sont les horaires d'ouverture du site de Lyon ?,horaires.txt,Le site de Lyon est ouvert du lundi au vendredi de 7 h 30 à 19 h.,horaires.txt p.1; restauration.txt p.1; demande_materiel.txt p.1,,
+Que faire si je reçois un e-mail suspect ?,securite_emails.txt,"Ne cliquez sur aucun lien et n'ouvrez aucune pièce jointe. Utilisez le bouton « Signaler un hameçonnage » dans la
+",securite_emails.txt p.1; securite_emails.txt p.1; securite_emails.txt p.1,,
+Comment me connecter au VPN ?,vpn.txt,"Ouvrez l'application AltéaConnect, installée sur tous les ordinateurs portables de l'entreprise. Cliquez sur « Se connecter », saisissez votre identifiant et votre mot de passe, puis validez la notification sur votre téléphone (authentification à deux facteurs). L'icône d
+",vpn.txt p.1; vpn.txt p.1; vpn.txt p.1,,
+Comment demander un nouvel ordinateur portable ?,demande_materiel.txt,"Pour demander un nouvel ordinateur portable, vous pouvez utiliser le portail Support IT, rubrique « Demande de matériel ». Choisissez l'équipement dans le catalogue (second écran, stat
+",demande_materiel.txt p.1; demande_materiel.txt p.1; livret_accueil.pdf p.1,,
+Qui est couvert par la mutuelle d'entreprise ?,mutuelle.pdf,"La cotisation est prise en charge à 60 % par l'entreprise et à 40 % par le salarié. La part salariale est prélevée directement sur le bulletin de paie.
+",mutuelle.pdf p.2; reglement_interieur.pdf p.1; mutuelle.pdf p.1,,
+Comment demander une formation ?,formation.txt,"La demande se fait dans MonEspace, rubrique « Formation », au moins 6 semaines avant la date souhaitée. Le salarié indique l'intitulé, l'organisme, la durée, le coût et le lien avec son poste. Le manager donne un avis, puis le service RH valide le financement.
+",formation.txt p.1; formation.txt p.1; formation.txt p.1,,
